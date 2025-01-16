@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🎵 Now Playing on Spotify
 
-[![Spotify](https://spotify-readme-url)](https://open.spotify.com/user/your_spotify_username)
+[![Spotify](https://spotify-readme-url)](https://open.spotify.com/artist/4E8UiuyXZcoWrGJ1QcHog4)
 
 ## 🚀 About Me
 
