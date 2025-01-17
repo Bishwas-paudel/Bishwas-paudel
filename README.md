@@ -8,7 +8,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on various exciting projects.
+- 🔭 I’m currently working on various exciting project
+- s.
 - 🌱 I’m currently learning new technologies and improving my skills.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about anything tech-related.
