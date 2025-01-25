@@ -41,11 +41,11 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bishwas-Paudel&theme=algolia&hide_border=true" width="700"/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdBinay&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdBinay&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdBinay&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdBinay&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdBinay&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bishwas-Paudel&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bishwas-Paudel&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bishwas-Paudel&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bishwas-Paudel&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bishwas-Paudel&theme=github_dark&utcOffset=8)
 
 </div>
 
@@ -66,8 +66,7 @@
   
 </p>
 
-<img  src="https://raw.githubusercontent.com/bishwas-paudel/Bishwas-Paudel/output/snake.svg" alt="Snake animation" /> 
+<img  src="https://raw.githubusercontent.com/Bishwas-Paudel/Bishwas-Paudel/output/snake.svg" alt="Snake animation" /> 
 <hr>
 If you wish to contact me please shoot a mail at  [BishwasPaudel](mailto:paudelbishwas885@gmail.com)
 
-![](bottom_header.svg)
