@@ -26,13 +26,6 @@
 
 ### 👨‍💻 I love listening to Music and exploring nature  my spare time. 🎶🏞️
 
-<p align="center">
-    <a href="https://open.spotify.com/track/6cUOiOY5qh2FpIQWIYAd2h" target="_blank"><img  alt="GIF" height="150px" margin-L   src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></a>
-</p>
-
-<p align="center">
-  <a href="https://open.spotify.com/user/31e3fbrl3vx44htpj4td4cqbmoha" target="_blank"><img src="https://spotify.bikram.io/api?theme=dark&rainbow=true" /></a>
-</p>
 
 
 <div align="center">
@@ -60,11 +53,6 @@
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bishwas-paudel" alt="bishwas" /></a> </p>
 
-## Wakatime Stats..
-<p align="center"><img src="https://wakatime.com/share/@7f95f4cd-9167-4de0-ab15-da199a0261c7/81e5fe4e-4a12-4e2a-a3e1-82f4bf20b2dc.svg" height="320" width="420">
-<img src="https://wakatime.com/share/@7f95f4cd-9167-4de0-ab15-da199a0261c7/9e540dcc-e32c-4371-bac6-30a951a84661.svg" height="320" width="420">
-  
-</p>
 
 <img  src="https://raw.githubusercontent.com/Bishwas-Paudel/Bishwas-Paudel/output/snake.svg" alt="Snake animation" /> 
 <hr>
