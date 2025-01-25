@@ -21,7 +21,7 @@
 
 <h3 align="left">Languages and Tools : </h3>
 
-![](https://skillicons.dev/icons?i=html,css,javascript,typescript,azure,bots,mysql,mongodb,java,git,github,python,django,c,dotnet,r,netlify,postgres,postman,react,vscode,vercel,ruby,workers&perline=20) 
+![](https://skillicons.dev/icons?i=html,css,javascript,mysql,mongodb,java,git,github,python,c,dotnet,postman,react,vscode,mssql,visualstudio,flutter,ruby,workers&perline=20) 
 
 
 ### 👨‍💻 I love listening to Music and exploring nature  my spare time. 🎶🏞️
