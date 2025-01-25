@@ -54,7 +54,6 @@
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bishwas-paudel" alt="bishwas" /></a> </p>
 
 
-<img  src="https://raw.githubusercontent.com/Bishwas-Paudel/Bishwas-Paudel/output/snake.svg" alt="Snake animation" /> 
 <hr>
 If you wish to contact me please shoot a mail at  [BishwasPaudel](mailto:paudelbishwas885@gmail.com)
 
