@@ -24,9 +24,6 @@
 ![](https://skillicons.dev/icons?i=html,css,javascript,mysql,mongodb,java,git,github,c,dotnet,postman,react,vscode,visualstudio,flutter) 
 
 
-### 👨‍💻 I love listening to Music and exploring nature  my spare time. 🎶🏞️
-
-
 
 <div align="center">
 
@@ -55,7 +52,6 @@
 
 
 <hr>
-<div> ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bishwas-paudel)</div>
 
 If you wish to contact me please shoot a mail at  [BishwasPaudel](mailto:paudelbishwas885@gmail.com)
 
