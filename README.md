@@ -24,7 +24,8 @@
 ![](https://skillicons.dev/icons?i=html,css,javascript,mysql,mongodb,java,git,github,c,dotnet,postman,react,vscode,visualstudio,flutter) 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Bishwas-Paudel&theme=algolia&hide_border=true" width="700"/>
+<img src="https://streak-stats.demolab.com?user=Bishwas-Paudel&theme=algolia&hide_border=true" width="700"/>
+
 
 <div align="center">
 
