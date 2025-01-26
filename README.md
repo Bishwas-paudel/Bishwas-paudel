@@ -1,6 +1,6 @@
-<h3 align="center">
-  Welcome to Bishwas Paudel's profile  !!!
-</h3>
+
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Bishwas+Paudel)](https://git.io/typing-svg)
+
 
 <p align="center">
   <a href="https://x.com/Bishwas885" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Bishwas Paudel" height="30" width="40" /></a>
@@ -24,7 +24,8 @@
 ![](https://skillicons.dev/icons?i=html,css,javascript,mysql,mongodb,java,git,github,c,dotnet,postman,react,vscode,visualstudio,flutter) 
 
 
-<img src="https://streak-stats.demolab.com?user=Bishwas-Paudel&theme=algolia&hide_border=true" width="700"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Bishwas-Paudel&theme=algolia" width="700"/>
+
 
 
 <div align="center">
