@@ -55,5 +55,7 @@
 
 
 <hr>
+<div> ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bishwas-paudel)</div>
+
 If you wish to contact me please shoot a mail at  [BishwasPaudel](mailto:paudelbishwas885@gmail.com)
 
