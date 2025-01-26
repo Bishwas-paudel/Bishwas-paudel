@@ -24,7 +24,6 @@
 ![](https://skillicons.dev/icons?i=html,css,javascript,mysql,mongodb,java,git,github,c,dotnet,postman,react,vscode,visualstudio,flutter) 
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=Bishwas-Paudel&theme=algolia" width="700"/>
 
 
 
