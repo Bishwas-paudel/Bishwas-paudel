@@ -44,7 +44,10 @@
 
 
 <hr>
+ <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bishwas-Paudel&theme=algolia&hide_border=true" width="700"/>
+ </div>
+
 
 ### 📊 Some More Details
 
