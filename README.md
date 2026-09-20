@@ -1,6 +1,6 @@
 <div align="center">
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+FullStackDeveloper)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=3000&pause=800&color=00F7C3&center=true&vCenter=true&multiline=false&random=false&width=1100&height=80&lines=%F0%9F%91%8B+Hello+World!+I'm+a+Full+Stack+Developer;%F0%9F%9A%80+I+Build+Products+That+Solve+Real-World+Problems;%F0%9F%92%BB+From+Beautiful+Interfaces+to+Powerful+Backend+Systems;%E2%9A%99%EF%B8%8F+React+%7C+Next.js+%7C+TypeScript+%7C+Python+%7C+FastAPI;%F0%9F%97%84%EF%B8%8F+PostgreSQL+%7C+Redis+%7C+APIs+%7C+Distributed+Systems;%E2%98%81%EF%B8%8F+Docker+%7C+CI%2FCD+%7C+Vercel+%7C+Cloud+Infrastructure;%F0%9F%A4%96+Building+AI+Agents%2C+Automation+%26+Smart+Workflows;%F0%9F%A7%A0+Connecting+AI+With+Real+Business+Operations;%F0%9F%93%88+Designing+Systems+That+Scale+With+Your+Business;%F0%9F%94%A7+Clean+Architecture.+Clean+Code.+Reliable+Systems.;%F0%9F%92%A1+Turning+Crazy+Ideas+Into+Working+Software;%F0%9F%8C%8D+Building+Technology+For+The+Real+World;%F0%9F%94%A5+Think.+Design.+Code.+Ship.+Improve.+Repeat.)](https://git.io/typing-svg)
 </div>
 
 
